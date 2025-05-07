@@ -1,2 +1,2 @@
 # PySpark_DataAnalysis
-PySpark_DataAnalysis using Employee.csv
+Learning and Analysing Data using PySpark and DataBricks with Employee.csv and user-defined data frames, PySQL.
